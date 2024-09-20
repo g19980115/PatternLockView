@@ -1,6 +1,5 @@
 package com.andrognito.rxpatternlockview.events;
 
-import android.support.annotation.IntDef;
 
 import com.andrognito.patternlockview.PatternLockView;
 
@@ -12,6 +11,8 @@ import static com.andrognito.rxpatternlockview.events.PatternLockCompoundEvent.E
 import static com.andrognito.rxpatternlockview.events.PatternLockCompoundEvent.EventType.PATTERN_COMPLETE;
 import static com.andrognito.rxpatternlockview.events.PatternLockCompoundEvent.EventType.PATTERN_PROGRESS;
 import static com.andrognito.rxpatternlockview.events.PatternLockCompoundEvent.EventType.PATTERN_STARTED;
+
+import androidx.annotation.IntDef;
 
 /**
  * Created by aritraroy on 27/03/17.
