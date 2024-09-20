@@ -22,10 +22,9 @@ This library is available in **jCenter** which is the default Maven repository u
 ```gradle
 dependencies {
     // other dependencies here
-    
-    compile 'com.andrognito.patternlockview:patternlockview:1.0.0'
+    implementation 'com.github.g19980115.PatternLockView:patternlockview:1.0.1'
     // Optional, for RxJava2 adapter
-    compile 'com.andrognito.patternlockview:patternlockview-reactive:1.0.0'
+    implementation 'com.github.g19980115.PatternLockView:patternlockview-reactive:1.0.1'
 }
 ```
 
