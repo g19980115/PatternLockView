@@ -19,6 +19,7 @@ It also **supports RxJava 2 view bindings**, so if you are a fan of reactive pro
 This library is available in **jCenter** which is the default Maven repository used in Android Studio.
 
 ## Gradle 
+[![](https://jitpack.io/v/g19980115/PatternLockView.svg)](https://jitpack.io/#g19980115/PatternLockView)
 ```gradle
 dependencies {
     // other dependencies here
